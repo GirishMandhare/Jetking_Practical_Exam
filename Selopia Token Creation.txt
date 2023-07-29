@@ -1,0 +1,8 @@
+Steps
+1) Go to app.team.finance/token-creation
+2) then Connect To the Metamask wallet
+3) then select selopia Testnet Network
+4) then fill all details releted to Token
+5) then select mint and burn function
+6) Then accept the transaction in metamask wallet
+7) finally our token is created
