@@ -1,0 +1,6 @@
+Steps :
+There are 3 Types of Inserting CSS 
+In CSS3 Inserting ,we are having mainly 3 simple ways to insert CSS into and HTML document.
+1. Internal Style Sheet
+2. External Style Sheet
+3. Inline Style Sheet
